@@ -1,3 +1,8 @@
-"# php-api" 
-Il file setup.sh serve per installare php e i moduli
-il file avvia.sh serve per rendere disponibile
+AMBIENTE CODESPACE
+
+Ordine di utilizzo:
+1. Aggiorna i pacchetti e installa php con setup.sh, usando il terminale del tuo codespace;
+2. Usa avvia.sh <nomecartellaprogetto> per rendere disponibile la propria api sul browser utilizzando PORTA 8000 disponibile sul proprio codespaces. Prima di avviare il server, lo script controlla se la porta 8000 è già occupata da un altro processo.
+
+
+

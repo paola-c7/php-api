@@ -1,4 +1,4 @@
-AMBIENTE CODESPACE
+CONFIGURAZIONE AMBIENTE CODESPACE - INSTALLAZIONE E AVVIO PHP
 
 Ordine di utilizzo:
 1. Aggiorna i pacchetti e installa php con setup.sh, usando il terminale del tuo codespace;
